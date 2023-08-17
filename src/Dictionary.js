@@ -3,8 +3,6 @@ import Results from "./Results.js";
 import axios from "axios";
 import "./Dictionary.css";
 import Photos from "./Photos.js";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons';
 
 export default function Dictionary(props) {
   let [keyword, setKeyword] = useState(props.defaultKeyword);
