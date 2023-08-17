@@ -8,6 +8,10 @@
   margin: 40px auto;
 }
 
+body {
+  background: #D7D8C6;
+}
+
 .App-header {
   margin: 20px 0;
 }
@@ -22,7 +26,7 @@
   font-family: 'Aboreto', cursive;
   font-weight: 800;
   letter-spacing: 1px;
-  color: #373737;
+  color: #7b8a6b;
   font-size: 30px;
   text-align: center;
   margin-top: 40px;
@@ -69,7 +73,7 @@ font-family: 'Jost', sans-serif;  text-align: center;
 
 .App footer a {
   text-decoration: none;
-  color: #a1ad95;
+  color: #7b8a6b;
 }
 
 
